@@ -1,10 +1,10 @@
-Obten el archivo `planck-rev6_drop-evaro01.json` del sitio config.qmk.fm
+Obten el archivo `keymap.json` del sitio config.qmk.fm
 
 Ejecuta los comandos:
 
 ```
-qmk compile -c planck-rev6_drop-evaro01.json
-qmk flash -c planck-rev6_drop-evaro01.json
+qmk compile -c keymap.json
+qmk flash -c keymap.json
 ```
 
 Presiona el botón _reset_ del teclado.
