@@ -49,7 +49,7 @@
       "KC_LCTL",
       "KC_BSPC",
       "TO(0)",
-      "KC_TRNS",
+      "TO(1)",
       "KC_SPC",
       "KC_RALT",
       "KC_NO",
