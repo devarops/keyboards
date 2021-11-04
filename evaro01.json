@@ -52,7 +52,7 @@
       "TO(1)",
       "KC_SPC",
       "KC_RALT",
-      "KC_NO",
+      "RCTL(KC_B)",
       "KC_QUOT",
       "KC_ENT"
     ],
