@@ -1,0 +1,1 @@
+/mnt/c/Users/evari/qmk_firmware/keyboards/handwired/perf60/keymaps/default/keymap.c
