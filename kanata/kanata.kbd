@@ -1,0 +1,41 @@
+(defcfg
+  process-unmapped-keys yes
+)
+
+(defsrc
+  esc
+  tab
+  caps   h   j   k   l   ;   '   ret
+  lsft
+  lctl   lmet   lalt   ralt   rctl
+)
+
+(defvar
+  tap-repress-timeout  100     ;; Time window to re-press the key and hold it as a "tap-action" repeat
+  hold-timeout         900     ;; Time to wait before switching from tap to hold (when no other key is pressed)
+)
+
+(defalias
+  tab (tap-hold-press $tap-repress-timeout $hold-timeout tab (layer-while-held navigation))
+  caps (tap-hold-press $tap-repress-timeout $hold-timeout (multi lctl b) lctl)
+  ; (tap-hold-press $tap-repress-timeout $hold-timeout ; rctl)
+  ' (tap-hold-press $tap-repress-timeout $hold-timeout ' ralt)
+  ret (tap-hold-press $tap-repress-timeout $hold-timeout ret rmet)
+  lsft (tap-hold-press $tap-repress-timeout $hold-timeout esc lsft)
+)
+
+(deflayer base
+  XX
+  @tab
+  @caps  h  j  k  l  @;  @'  @ret
+  @lsft
+  XX  XX  XX  XX  XX
+)
+
+(deflayer navigation
+  XX
+  @tab
+  @caps  left  down  up  rght  @;  @'  @ret
+  @lsft
+  XX  XX  XX  XX  XX
+)
