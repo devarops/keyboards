@@ -34,25 +34,27 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 /* Raised (Layer 1)
  * ,-----------------------------------------.      ,-----------------------------------------.
- * |      |      |      |      |      |      |      |      |      |      |      |      |      |
+ * |      |      |      |      | End  |      |      |      |      |      |      | Home |      |
  * |------+------+------+------+------+------|      |------+------+------+------+------+------|
- * |      |   Q  |   W  |   E  |   R  |   T  |      |   Y  |   U  |   I  |   O  |C-S-V |  =   |
+ * |      |   Q  |C-Rght|   E  |   R  |   T  |      |   Y  |Pg Up |   I  |   O  |C-S-V |  =   |
  * |------+------+------+------+------+------|      |------+------+------+------+------+------|
- * |      |   A  |   S  |   D  |   F  |   G  |      | Left | Down |  Up  |Right |   ;  |  "   |
+ * |      |   A  |   S  |PgDown|   F  |   G  |      | Left | Down |  Up  |Right |   ;  |  "   |
  * |------+------+------+------+------+------|      |------+------+------+------+------+------|
- * |  `   |   Z  |   X  |   C  |   V  |   B  |      |   N  |   M  |   (  |   )  |   /  |  -   |
+ * |  `   |   Z  |   X  |   C  |   V  |C-Left|      |   N  |   M  |   (  |   )  |   /  |  -   |
  * |------+------+------+------+------+------|      |------+------+------+------+------+------|
- * |Lower |      |      |      |      | S-CR |      |      |      |   (  |   )  |   \  | Win  |
+ * |Lower |      |      |      |      | S-CR |      |      |C-Bspc|   (  |   )  |   \  | Win  |
  * `-----------------------------------------'      `-----------------------------------------'
  */
 [1] = LAYOUT(
-  XXXXXXX, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______,
-  _______, KC_Q,    KC_W,    KC_E,    KC_R,    KC_T,    KC_Y,    KC_U,    KC_I,    KC_O,    C(S(KC_V)),
+  XXXXXXX, _______, _______, _______, KC_END,  _______, _______, _______, _______, _______, KC_HOME, _______,
+  _______, KC_Q,    C(KC_RIGHT),
+                             KC_E,    KC_R,    KC_T,    KC_Y,    KC_PGUP, KC_I,    KC_O,    C(S(KC_V)),
                                                                                                      KC_EQL,
-  _______, KC_A,    KC_S,    KC_D,    KC_F,    KC_G,    KC_LEFT, KC_DOWN, KC_UP,   KC_RGHT, KC_SCLN, KC_QUOT,
-  KC_GRV,  KC_Z,    KC_X,    KC_C,    KC_V,    KC_B,    KC_N,    KC_M,    S(KC_9), S(KC_0), KC_SLSH, KC_MINS,
+  _______, KC_A,    KC_S,    KC_PGDN, KC_F,    KC_G,    KC_LEFT, KC_DOWN, KC_UP,   KC_RGHT, KC_SCLN, KC_QUOT,
+  KC_GRV,  KC_Z,    KC_X,    KC_C,    KC_V,    C(KC_LEFT),
+                                                        KC_N,    KC_M,    S(KC_9), S(KC_0), KC_SLSH, KC_MINS,
   TO(0),   XXXXXXX, XXXXXXX, XXXXXXX, _______, S(KC_ENTER),
-                                                        _______, _______, S(KC_9), S(KC_0), KC_BSLS, KC_LGUI
+                                                        _______, C(KC_BSPC), S(KC_9), S(KC_0), KC_BSLS, KC_LGUI
 )
 
 };
