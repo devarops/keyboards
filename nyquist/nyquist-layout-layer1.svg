@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="946" height="446" viewBox="0 0 946 446">
+<rect width="946" height="446" fill="#efe0d7"/>
+<rect x="14" y="74" width="918" height="334" rx="16" fill="#f4e6de" stroke="#dcc7ba"/>
+<text x="28" y="32" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" fill="#3b3330">Nyquist Rev. 3 — layer 1</text>
+<g font-family="DejaVu Sans, sans-serif" font-weight="500">
+<rect x="28" y="88" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="57.0" y="103" text-anchor="middle" font-size="8.5" fill="#b9b1a8">unused</text>
+<rect x="92" y="88" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="121.0" y="123.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="156" y="88" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="185.0" y="123.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="220" y="88" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="249.0" y="123.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="284" y="88" width="58" height="58" rx="7" fill="#3b3b3b" stroke="#2a2a2a" stroke-width="1"/>
+<text x="313.0" y="123.0" text-anchor="middle" font-size="13" fill="#f6f2ec">End</text>
+<rect x="348" y="88" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="377.0" y="123.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="28" y="152" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="57.0" y="187.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="92" y="152" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="121.0" y="187.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="156" y="152" width="58" height="58" rx="7" fill="#454545" stroke="#2a2a2a" stroke-width="1"/>
+<text x="185.0" y="187.0" text-anchor="middle" font-size="13" fill="#f6f2ec">Ctrl+→</text>
+<rect x="220" y="152" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="249.0" y="187.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="284" y="152" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="313.0" y="187.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="348" y="152" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="377.0" y="187.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="28" y="216" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="57.0" y="251.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="92" y="216" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="121.0" y="251.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="156" y="216" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="185.0" y="251.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="220" y="216" width="58" height="58" rx="7" fill="#3b3b3b" stroke="#2a2a2a" stroke-width="1"/>
+<text x="249.0" y="251.0" text-anchor="middle" font-size="13" fill="#f6f2ec">PgDn</text>
+<rect x="284" y="216" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="313.0" y="251.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="348" y="216" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="377.0" y="251.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="28" y="280" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="57.0" y="315.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="92" y="280" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="121.0" y="315.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="156" y="280" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="185.0" y="315.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="220" y="280" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="249.0" y="315.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="284" y="280" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="313.0" y="315.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="348" y="280" width="58" height="58" rx="7" fill="#454545" stroke="#2a2a2a" stroke-width="1"/>
+<text x="377.0" y="315.0" text-anchor="middle" font-size="13" fill="#f6f2ec">Ctrl+←</text>
+<rect x="28" y="344" width="58" height="58" rx="7" fill="#454545" stroke="#2a2a2a" stroke-width="1"/>
+<text x="57.0" y="378.0" text-anchor="middle" font-size="11" fill="#f6f2ec">Layer 0</text>
+<text x="57.0" y="359" text-anchor="middle" font-size="8.5" fill="#b9b1a8">switch to</text>
+<rect x="92" y="344" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="121.0" y="359" text-anchor="middle" font-size="8.5" fill="#b9b1a8">unused</text>
+<rect x="156" y="344" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="185.0" y="359" text-anchor="middle" font-size="8.5" fill="#b9b1a8">unused</text>
+<rect x="220" y="344" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="249.0" y="359" text-anchor="middle" font-size="8.5" fill="#b9b1a8">unused</text>
+<rect x="284" y="344" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="313.0" y="379.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="348" y="344" width="58" height="58" rx="7" fill="#454545" stroke="#2a2a2a" stroke-width="1"/>
+<text x="377.0" y="379.0" text-anchor="middle" font-size="8.5" fill="#f6f2ec">Shift+Enter</text>
+<rect x="540" y="88" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="569.0" y="123.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="604" y="88" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="633.0" y="123.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="668" y="88" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="697.0" y="123.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="732" y="88" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="761.0" y="123.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="796" y="88" width="58" height="58" rx="7" fill="#3b3b3b" stroke="#2a2a2a" stroke-width="1"/>
+<text x="825.0" y="123.0" text-anchor="middle" font-size="13" fill="#f6f2ec">Home</text>
+<rect x="860" y="88" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="889.0" y="123.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="540" y="152" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="569.0" y="187.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="604" y="152" width="58" height="58" rx="7" fill="#3b3b3b" stroke="#2a2a2a" stroke-width="1"/>
+<text x="633.0" y="187.0" text-anchor="middle" font-size="13" fill="#f6f2ec">PgUp</text>
+<rect x="668" y="152" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="697.0" y="187.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="732" y="152" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="761.0" y="187.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="796" y="152" width="58" height="58" rx="7" fill="#454545" stroke="#2a2a2a" stroke-width="1"/>
+<text x="825.0" y="187.0" text-anchor="middle" font-size="8.5" fill="#f6f2ec">Ctrl+Shift+V</text>
+<rect x="860" y="152" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="889.0" y="187.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="540" y="216" width="58" height="58" rx="7" fill="#3b3b3b" stroke="#2a2a2a" stroke-width="1"/>
+<text x="569.0" y="251.0" text-anchor="middle" font-size="17" fill="#f6f2ec">←</text>
+<rect x="604" y="216" width="58" height="58" rx="7" fill="#3b3b3b" stroke="#2a2a2a" stroke-width="1"/>
+<text x="633.0" y="251.0" text-anchor="middle" font-size="17" fill="#f6f2ec">↓</text>
+<rect x="668" y="216" width="58" height="58" rx="7" fill="#3b3b3b" stroke="#2a2a2a" stroke-width="1"/>
+<text x="697.0" y="251.0" text-anchor="middle" font-size="17" fill="#f6f2ec">↑</text>
+<rect x="732" y="216" width="58" height="58" rx="7" fill="#3b3b3b" stroke="#2a2a2a" stroke-width="1"/>
+<text x="761.0" y="251.0" text-anchor="middle" font-size="17" fill="#f6f2ec">→</text>
+<rect x="796" y="216" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="825.0" y="251.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="860" y="216" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="889.0" y="251.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="540" y="280" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="569.0" y="315.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="604" y="280" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="633.0" y="315.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="668" y="280" width="58" height="58" rx="7" fill="#454545" stroke="#2a2a2a" stroke-width="1"/>
+<text x="697.0" y="315.0" text-anchor="middle" font-size="17" fill="#f6f2ec">(</text>
+<rect x="732" y="280" width="58" height="58" rx="7" fill="#454545" stroke="#2a2a2a" stroke-width="1"/>
+<text x="761.0" y="315.0" text-anchor="middle" font-size="17" fill="#f6f2ec">)</text>
+<rect x="796" y="280" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="825.0" y="315.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="860" y="280" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="889.0" y="315.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="540" y="344" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="569.0" y="379.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="604" y="344" width="58" height="58" rx="7" fill="#454545" stroke="#2a2a2a" stroke-width="1"/>
+<text x="633.0" y="379.0" text-anchor="middle" font-size="11" fill="#f6f2ec">Ctrl+Bksp</text>
+<rect x="668" y="344" width="58" height="58" rx="7" fill="#454545" stroke="#2a2a2a" stroke-width="1"/>
+<text x="697.0" y="379.0" text-anchor="middle" font-size="17" fill="#f6f2ec">(</text>
+<rect x="732" y="344" width="58" height="58" rx="7" fill="#454545" stroke="#2a2a2a" stroke-width="1"/>
+<text x="761.0" y="379.0" text-anchor="middle" font-size="17" fill="#f6f2ec">)</text>
+<rect x="796" y="344" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="825.0" y="379.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+<rect x="860" y="344" width="58" height="58" rx="7" fill="#343434" stroke="#2a2a2a" stroke-width="1"/>
+<text x="889.0" y="379.0" text-anchor="middle" font-size="17" fill="#7d746c">—</text>
+</g>
+</svg>
