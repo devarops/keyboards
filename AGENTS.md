@@ -43,8 +43,10 @@ VIA, for the Nyquist: no toolchain and no flashing. Open <https://usevia.app> in
 browser over USB, authorise the device, load the layout file, remap, then save the layout from
 VIA back into the repository.
 
-QMK, for the Planck and perf60: needs a `qmk_firmware` checkout and the QMK CLI.
-`qmk compile -c keymap.json`, then `qmk flash -c keymap.json`, then press the reset button.
+QMK, for the Planck and perf60: needs a `qmk_firmware` checkout and the QMK CLI. The Planck
+uses `qmk compile -c keymap.json`, then `qmk flash -c keymap.json`. The perf60, once its folder
+is copied into `keyboards/handwired/perf60`, uses `qmk compile -kb handwired/perf60 -km default`
+and the same flags to flash. Press the reset button to flash.
 
 ## Linux: VIA cannot open the device
 
