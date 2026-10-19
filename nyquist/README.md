@@ -6,6 +6,8 @@ Changing the mapping needs no toolchain, no QMK checkout, and no flashing.
 - USB ID: `0xCB10:0x3156` (Keebio).
 - Layout: `nyquist.layout.json`, four layers, saved from VIA.
 
+![Layer 0 of the Nyquist layout](nyquist-layout.svg)
+
 ## Change the layout
 
 1. Plug the board in over USB.
