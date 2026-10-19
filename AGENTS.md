@@ -8,6 +8,9 @@ files that are consumed by a web configurator or by a QMK checkout.
 - `planck/planck.json` — QMK Configurator export for `planck/rev6_drop`.
 - `nyquist/nyquist.layout.json` — VIA save file for the Nyquist Rev. 3 (USB `0xCB10:0x3156`),
   four layers.
+- `nyquist/nyquist-layout-layer0.svg` and `nyquist-layout-layer1.svg` — drawings of the first
+  two layers, embedded in that directory's README.
+- `nyquist/src/render_layout.py` — renders one layer of the layout file to SVG.
 - `perf60/` — a full QMK keyboard definition: `keyboard.json` (Pro Micro, COL2ROW) and
   `keymaps/default/keymap.c` with two layers. Copy it to `keyboards/handwired/perf60` in a
   `qmk_firmware` checkout.
@@ -22,6 +25,17 @@ python3 -m json.tool planck/planck.json >/dev/null
 ```
 
 Keymap behaviour is verified on the hardware.
+
+## Nyquist drawings
+
+- The board is used rotated 180 degrees, so the stored array starts at its bottom-right key.
+  Each drawing reverses the layer to show the board upright, with F11 at the top right.
+- A dash is `KC_TRNS`, a transparent key that inherits the layer below; `unused` is `KC_NO`,
+  which blocks. The two differ and stay distinct.
+- Only the SVG is tracked; `*.png` is ignored.
+- QMK spells the right arrow `KC_RGHT`; `KC_RIGHT` is not a keycode.
+- The drawings come from `nyquist/src/render_layout.py`; run it with the layer number after a
+  layout change, for example `python3 nyquist/src/render_layout.py 1`.
 
 ## Two workflows
 
